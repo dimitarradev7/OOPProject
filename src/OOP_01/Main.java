@@ -10,6 +10,7 @@ public class Main {
 
         //System.out.println(Person.canBreathe);
        Car car = new Car("BMW",true,"Red",5000, 300);
+        Car car2 = new Car("BMW",true,"Red",5000, 300);
         Car car1 = new Car("Audi",true,"black",10000,240);
         car1.owner= p;
 /*      double price=  car1.calculateCarPriceForScrap(10);
