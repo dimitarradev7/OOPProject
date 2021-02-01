@@ -13,18 +13,6 @@ public class Main {
         Car car2 = new Car("BMW",true,"Red",5000, 300);
         Car car1 = new Car("Audi",true,"black",10000,240);
         car1.owner= p;
-/*      double price=  car1.calculateCarPriceForScrap(10);
-        double price2=  car.calculateCarPriceForScrap(10);
-
-        System.out.println(price);
-        System.out.println(price2);
-
-        System.out.println(car.isMoreExpensive(car1));*/
-
-
-
-
-
 
         Person mother  = new Person("Maria");
         mother.money= 20000;
