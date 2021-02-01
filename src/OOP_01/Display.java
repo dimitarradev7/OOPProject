@@ -7,4 +7,5 @@ package OOP_01;
 public class Display {
     double size;
     double colors;
+    double name;
 }
