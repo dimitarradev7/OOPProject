@@ -22,7 +22,7 @@ public class Main {
         System.out.println("Money buy: "+mother.money);
         mother.sellCarForScrap();
         System.out.println("Money after sale: "+mother.money);
-
+        System.out.println("Money after sale: "+mother.money);
         if (mother.car==null){
             System.out.println("no car");
         }else   {
